@@ -12,7 +12,7 @@
   </a>
 </div>
 
-  ![Profile views](https://gpvc.arturio.dev/sher304) 
+![Profile views](https://gpvc.arturio.dev/sher304) 
 
 
 <!--
