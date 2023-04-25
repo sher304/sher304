@@ -12,10 +12,7 @@
   </a>
 </div>
 
-
-<div id="badges", align="center">
-![Profile views](https://gpvc.arturio.dev/[sher304])
-</div>
+  ![Profile views](https://gpvc.arturio.dev/sher304) 
 
 
 <!--
