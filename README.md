@@ -14,7 +14,7 @@
 
 
 <div id="badges", align="center">
-https://komarev.com/ghpvc/?username=sher304&color=lightgrey
+  https://komarev.com/ghpvc/?username=sher304
 </div>
 
 
