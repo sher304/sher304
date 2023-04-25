@@ -12,6 +12,12 @@
   </a>
 </div>
 
+
+<div id="badges", align="center">
+https://komarev.com/ghpvc/?username=sher304
+</div>
+
+
 <!--
 **sher304/sher304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
