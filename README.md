@@ -14,7 +14,7 @@
 
 
 <div id="badges", align="center">
-  https://komarev.com/ghpvc/?username=sher304
+![Profile views](https://gpvc.arturio.dev/[sher304])
 </div>
 
 
